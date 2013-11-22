@@ -1,0 +1,17 @@
+{
+  "name": "walkytalky",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Notification service for adding push ability to rails apps",
+  "author": "Paul Volpato",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest"
+  },
+  "devDependencies": {
+    "coffee-script": "1.6.1"
+  },
+  "engines": {
+    "node": "0.10.22"
+  }
+}
